@@ -1,6 +1,5 @@
 # Python Workshop Tutorial, Debugging 101 : Print
 # Daniel McCormick - Nov 12th 2017
-# are you even reading these, Awn?
 
 
 # In python there is a super easy way to show things on the screen or terminal
